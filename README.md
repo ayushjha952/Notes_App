@@ -49,7 +49,7 @@ Clone the project
 Go to the project directory
 
 ```bash
-  cd Url_Shortner
+  cd Notes_App
 ```
 
 Install dependencies
